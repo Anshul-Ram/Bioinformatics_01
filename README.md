@@ -6,11 +6,11 @@
 
 This is a simple example of code, it involves:
 
-* Finding a repeated snippet of DNA within a string of DNA. *
+** Finding a repeated snippet of DNA within a string of DNA. **
 > Finding a substring within a string essentially.
 
-* Finding the reverse complement of a gene. *
+** Finding the reverse complement of a gene. **
 > Using a dictionary(Hashmap) to 'translate' a gene to it's complement.
 
-* Finding a repeated gene within a genome. *
+** Finding a repeated gene within a genome. **
 > Finding a repeated substring within a string.
